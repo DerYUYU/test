@@ -1,0 +1,12 @@
+{
+  "001": {
+    "title": "Beispiel-Song 1",
+    "spotify": "https://open.spotify.com/intl-de/album/6rVQcMNP50goS9mbcChFgq?go=1&referral=labelaffiliate&utm_source=1110lKaLALI&utm_medium=Sony_SonyMusicGermany&utm_campaign=labelaffiliate&nd=1&dlsi=804f9ccbcccc426a",
+    "youtube": "https://www.youtube.com/watch?v=Wg5tkejfneY"
+  },
+  "002": {
+    "title": "Beispiel-Song 2",
+    "spotify": "https://open.spotify.com/track/AAAAAAAAAAAA",
+    "youtube": "https://www.youtube.com/watch?v=BBBBBBBBBBB"
+  }
+}
