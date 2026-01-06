@@ -15,7 +15,6 @@ async function main() {
   const errEl = document.getElementById('error');
   const spotifyBtn = document.getElementById('spotifyBtn');
   const youtubeBtn = document.getElementById('youtubeBtn');
-  const amazonBtn = document.getElementById('amazonBtn'); // NEU
 
   if (!id) {
     titleEl.textContent = 'Fehlende ID';
@@ -23,7 +22,6 @@ async function main() {
     errEl.textContent = 'Diese Seite braucht eine ID, z. B. ?id=001';
     setDisabled(spotifyBtn, true);
     setDisabled(youtubeBtn, true);
-    setDisabled(amazonBtn, true); // NEU
     return;
   }
 
@@ -37,7 +35,6 @@ async function main() {
     errEl.textContent = 'Für diese ID ist kein Eintrag hinterlegt.';
     setDisabled(spotifyBtn, true);
     setDisabled(youtubeBtn, true);
-    setDisabled(amazonBtn, true); // NEU
     return;
   }
 
@@ -45,9 +42,6 @@ async function main() {
 
   if (item.spotify) spotifyBtn.href = item.spotify; else setDisabled(spotifyBtn, true);
   if (item.youtube) youtubeBtn.href = item.youtube; else setDisabled(youtubeBtn, true);
-
-  // Amazon Music: nutzt item.amazon, falls vorhanden (songs.json bleibt unverändert; dann ist der Button meist deaktiviert)
-  if (item.amazon) amazonBtn.href = item.amazon; else setDisabled(amazonBtn, true); // NEU
 }
 
 main();
