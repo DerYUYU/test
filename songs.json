@@ -1,344 +1,287 @@
 {
   "001": {
-    "title": "Beispiel-Song 1",
     "spotify": "https://open.spotify.com/intl-de/album/6rVQcMNP50goS9mbcChFgq?go=1&referral=labelaffiliate&utm_source=1110lKaLALI&utm_medium=Sony_SonyMusicGermany&utm_campaign=labelaffiliate&nd=1&dlsi=804f9ccbcccc426a",
     "youtube": "https://www.youtube.com/watch?v=Wg5tkejfneY",
-    "amazon music": "https://music.amazon.de/albums/B0FT4H6J96?do=play&trackAsin=B0FT4P6ZFW&ts=1767650261"
+    "amazone": "https://music.amazon.de/albums/B0FT4H6J96?do=play&trackAsin=B0FT4P6ZFW&ts=1767650261"
   },
   "002": {
-    "title": "Beispiel-Song 2",
     "spotify": "https://open.spotify.com/intl-de/track/003vvx7Niy0yvhvHt4a68B?si=ffdd28af7e184259",
     "youtube": "https://youtu.be/l7MaKmKJqoc?si=wR6Pyf-stF4xttQQ",
-    "amazon music": "https://music.amazon.de/albums/B073HHP9HB?do=play&trackAsin=B00IPP1F3I&ts=1767651544&ref=dm_sh_fSuqh9CLgxaSo15kNqwTIGJVY"
-  },
+    "amazone": "https://music.amazon.de/albums/B073HHP9HB?do=play&trackAsin=B00IPP1F3I&ts=1767651544&ref=dm_sh_fSuqh9CLgxaSo15kNqwTIGJVY"
+  }
   "003": {
-    "title": "Beispiel-Song 3",
     "spotify": "https://open.spotify.com/intl-de/track/6JymsaWDHk2Yj4e0yNBIFH?si=109ed80736ad478f",
     "youtube": "https://youtu.be/jrL_LzX5wv4?si=WRO-dwmYtwkXzC95",
-    "amazon music": "https://music.amazon.de/albums/B0767Q3F2R?do=play&trackAsin=B0767PHT2N&ts=1767651806&ref=dm_sh_SrUucNy4jDMGkfLBGTM9bD2kD"
-  }, 
+    "amazone": "https://music.amazon.de/albums/B0767Q3F2R?do=play&trackAsin=B0767PHT2N&ts=1767651806&ref=dm_sh_SrUucNy4jDMGkfLBGTM9bD2kD"
+  }
   "004": {
-    "title": "Beispiel-Song 4",
     "spotify": "https://open.spotify.com/intl-de/track/6Rb0ptOEjBjPPQUlQtQGbL?si=21bddb48088c4495",
     "youtube": "https://youtu.be/I3wmxpH8geA?si=vHvIQqM_QLZO5s2f",
-    "amazon music": "https://music.amazon.de/albums/B002LHKCM6?do=play&trackAsin=B002LHLVI0&ts=1767652495&ref=dm_sh_9yDLBUU4dlgfEJ9D6rkxSKlJg"
-  },
+    "amazone": "https://music.amazon.de/albums/B002LHKCM6?do=play&trackAsin=B002LHLVI0&ts=1767652495&ref=dm_sh_9yDLBUU4dlgfEJ9D6rkxSKlJg"
+  }
   "005": {
-    "title": "Beispiel-Song 5",
     "spotify": "https://open.spotify.com/intl-de/track/030dULvYNT5n8vYpIak51w?si=ee680b5f64324eff",
     "youtube": "https://youtu.be/SRPBW-T9cWQ?si=BeLqIodoL1omuZPp",
-    "amazon music": "https://music.amazon.de/albums/B073LRR2WY?do=play&trackAsin=B001SM67NI&ts=1767652760&ref=dm_sh_Q40LKvyxipxYXqpTKJ5PM7gDe"
-  },
+    "amazone": "https://music.amazon.de/albums/B073LRR2WY?do=play&trackAsin=B001SM67NI&ts=1767652760&ref=dm_sh_Q40LKvyxipxYXqpTKJ5PM7gDe"
+  }
   "006": {
-    "title": "Beispiel-Song 6",
-    "spotify": "https://open.spotify.com/intl-de/track/2QjOHCTQ1Jl3zawyYOpxh6?si=1693cfb937c04d2a",
-    "youtube": "https://youtu.be/08WiUcJmnZc?si=TYwTBh5zoSaQDSbC",
-    "amazon music": "https://music.amazon.de/albums/B00CBXKDZ6?do=play&trackAsin=B00CD4ONAO&ts=1767652890&ref=dm_sh_afo0ATnIUME7N9DI9bNy9UQWA"
-  },
+    "spotify": "",
+    "youtube": "",
+    "amazone": ""
+  }
   "007": {
-    "title": "Beispiel-Song 7",
-    "spotify": "https://open.spotify.com/intl-de/track/2HoqbEOXgbDSLZ5XCePEXt?si=c8a5bf5105314dba",
-    "youtube": "https://youtu.be/-aUMOgjX-nw?si=5Vs9Lkb7t47MSXtA",
-    "amazon music": "https://music.amazon.de/albums/B073J289LN?do=play&trackAsin=B00FI08SO2&ts=1767653062&ref=dm_sh_czCRTCjs3lRfcLedeUXXG3ROf"
-  },
+    "spotify": "",
+    "youtube": "",
+    "amazone": ""
+  }
   "008": {
-    "title": "Beispiel-Song 8",
-    "spotify": "https://open.spotify.com/intl-de/track/0d28khcov6AiegSCpG5TuT?si=516334c4ef364c0a",
-    "youtube": "https://youtu.be/MsNM7BP0I0M?si=_R_n5kKuPVMdwlsd",
-    "amazon music": "https://music.amazon.de/albums/B07VXZBZ25?do=play&trackAsin=B07VZ6H7X6&ts=1767653193&ref=dm_sh_bULeRzRBZDc5qajijCSu8axY9"
-  },
+    "spotify": "",
+    "youtube": "",
+    "amazone": ""
+  }
   "009": {
-    "title": "Beispiel-Song 9",
-    "spotify": "https://open.spotify.com/intl-de/track/7JJmb5XwzOO8jgpou264Ml?si=16a791e045bb4cd8",
-    "youtube": "https://youtu.be/Bt6TmXqRCb4?si=N9sbMGj0mSQ41ykD",
-    "amazon music": "https://music.amazon.de/albums/B073JNGYVR?do=play&trackAsin=B071YDSKBZ&ts=1767653347&ref=dm_sh_XI2QBoRQYBS4JFStaRhFY9ZTP"
-  },
+    "spotify": "",
+    "youtube": "",
+    "amazone": ""
+  }
   "010": {
-    "title": "Beispiel-Song 10",
-    "spotify": "https://open.spotify.com/intl-de/track/3QGsuHI8jO1Rx4JWLUh9jd?si=179cd967ee134a4f",
-    "youtube": "https://youtu.be/Pe8W7XgPTo0?si=zBujkrcUT_b3a-Au",
-    "amazon music": "https://music.amazon.de/albums/B073JNGYVR?do=play&trackAsin=B071R36KWH&ts=1767653455&ref=dm_sh_91xPJqMJ4oc1OIZjc7osLgkQu"
-  },
+    "spotify": "",
+    "youtube": "",
+    "amazone": ""
+  }
   "011": {
-    "title": "Beispiel-Song 11",
-    "spotify": "https://open.spotify.com/intl-de/track/7EQGXaVSyEDsCWKmUcfpLk?si=2645a428647a486d",
-    "youtube": "https://youtu.be/VKmyYEozgac?si=hCWbSSGuBL1uCf8T",
-    "amazon music": "https://music.amazon.de/albums/B076XSYL45?do=play&trackAsin=B076YMV3LS&ts=1767653557&ref=dm_sh_7RWKoed2CyWWEOCbPXquqtAUW"
-  },
+    "spotify": "",
+    "youtube": "",
+    "amazone": ""
+  }
   "012": {
-    "title": "Beispiel-Song 12",
-    "spotify": "https://open.spotify.com/intl-de/track/57bgtoPSgt236HzfBOd8kj?si=f5501e0deb83400b",
-    "youtube": "https://youtu.be/mBksMIl9Kf0?si=RFi9oUPipfDESMzv",
-    "amazon music": "https://music.amazon.de/albums/B00O6YXKMQ?do=play&trackAsin=B00O6HJD88&ts=1767653661&ref=dm_sh_UHuaQGitTC9u0Mo5SsXWhKk87"
-  },
+    "spotify": "",
+    "youtube": "",
+    "amazone": ""
+  }
   "013": {
-    "title": "Beispiel-Song 13",
-    "spotify": "https://open.spotify.com/intl-de/track/4P4PHxZQ1FcwQKKnfEPsAZ?si=a05c94123bf247b9",
-    "youtube": "https://youtu.be/5Cqcy0U7Frk?si=A9KWpySt3r8WteBG",
-    "amazon music": "https://music.amazon.de/albums/B08C1YHTQN?do=play&trackAsin=B08C2CSFFM&ts=1767653766&ref=dm_sh_f2p9OOmucjcFsFD2tYHEs6Lrn"
-  },
+    "spotify": "",
+    "youtube": "",
+    "amazone": ""
+  }
   "014": {
-    "title": "Beispiel-Song 14",
-    "spotify": "https://open.spotify.com/intl-de/track/2JoZzpdeP2G6Csfdq5aLXP?si=0deb89b7735d42e7",
-    "youtube": "https://youtu.be/ukgluvJpL4U?si=SpJVKvdeRCCAFFc8",
-    "amazon music": "https://music.amazon.de/albums/B073JZLWD5?do=play&trackAsin=B01MS0IAMV&ts=1767653881&ref=dm_sh_tM4Jlnmih85ZUdfdN5XajMvVb"
-  },
+    "spotify": "",
+    "youtube": "",
+    "amazone": ""
+  }
   "015": {
-    "title": "Beispiel-Song 15",
-    "spotify": "https://open.spotify.com/intl-de/track/2yBVeksU2EtrPJbTu4ZslK?si=25819f2e14bb4a34",
-    "youtube": "https://youtu.be/ZK4_G4ZhvbA?si=f2REL1qUBDfh59OB",
-    "amazon music": "https://music.amazon.de/albums/B002FUBW32?do=play&trackAsin=B002G2BQLW&ts=1767653989&ref=dm_sh_0y7NraYLjGnUD9sFY0KeAJXYA"
-  },
+    "spotify": "",
+    "youtube": "",
+    "amazone": ""
+  }
   "016": {
-    "title": "Beispiel-Song 16",
-    "spotify": "https://open.spotify.com/intl-de/track/0bRXwKfigvpKZUurwqAlEh?si=06fe449dfe504e26",
-    "youtube": "https://youtu.be/bEeaS6fuUoA?si=fo0KHR388901-mg4",
-    "amazon music": "https://music.amazon.de/albums/B00WNLYZ1Y?do=play&trackAsin=B00WOLWFOW&ts=1767654099&ref=dm_sh_YfiW6k2IDJn17QYRB04UXV1NE"
-  },
+    "spotify": "",
+    "youtube": "",
+    "amazone": ""
+  }
   "017": {
-    "title": "Beispiel-Song 17",
-    "spotify": "https://open.spotify.com/intl-de/track/0llxnKwB2eKrVEUxBWuHgR?si=44a7063117c3478d",
-    "youtube": "https://youtu.be/fkQuNNJ-MiY?si=SXkQE3pYCnHpBAPg",
-    "amazon music": "https://music.amazon.de/albums/B0FR9RQB92?do=play&trackAsin=B0FR9TJCXQ&ts=1767654244&ref=dm_sh_QRdDdCqQhqMxeUFNXB4O9BpRO"
-  },
+    "spotify": "",
+    "youtube": "",
+    "amazone": ""
+  }
   "018": {
-    "title": "Beispiel-Song 18",
-    "spotify": "https://open.spotify.com/intl-de/track/1DIXPcTDzTj8ZMHt3PDt8p?si=22bcaaaeccba441a",
-    "youtube": "https://youtu.be/V79D8__4W9g?si=QcTAP16GBDLwkZAd",
-    "amazon music": "https://music.amazon.de/albums/B0767PBFQN?do=play&trackAsin=B0767PFPRC&ts=1767654368&ref=dm_sh_i50vXWHB74ZFcOafOYrWGKiT0"
-  },
+    "spotify": "",
+    "youtube": "",
+    "amazone": ""
+  }
   "019": {
-    "title": "Beispiel-Song 19",
-    "spotify": "https://open.spotify.com/intl-de/track/5fRvePkRGdpn2nKacG7I6d?si=3d1ece8432324417",
-    "youtube": "https://youtu.be/_Jl-QpJNKiQ?si=ix1Xdp1gqKivpVT4",
-    "amazon music": "https://music.amazon.de/albums/B00JLYR6OE?do=play&trackAsin=B001RZ7SHK&ts=1767654463&ref=dm_sh_niuGjtUM0HaHwb4WHWQMnBCvw"
-  },
+    "spotify": "",
+    "youtube": "",
+    "amazone": ""
+  }
   "020": {
-    "title": "Beispiel-Song 20",
-    "spotify": "https://open.spotify.com/intl-de/track/32OlwWuMpZ6b0aN2RZOeMS?si=6420d31fb5284009",
-    "youtube": "https://youtu.be/W8FUmkw3a4U?si=Je-Qbq9vWjf9FRRj",
-    "amazon music": "https://music.amazon.de/albums/B00PXAL2AE?do=play&trackAsin=B00Q0KG8DM&ts=1767654553&ref=dm_sh_NT7h6OoPYPaVNWOeKglQNQj8f"
-  },
+    "spotify": "",
+    "youtube": "",
+    "amazone": ""
+  }
   "021": {
-    "title": "Beispiel-Song 21",
-    "spotify": "https://open.spotify.com/intl-de/track/3ypMsqUwfNFMiooMLVHfkp?si=07b0f4fbef4f4357",
-    "youtube": "https://youtu.be/DP5qPb_zDUc?si=xiVJdwciMxTZ9G5q",
-    "amazon music": "https://music.amazon.de/albums/B073JHHVX1?do=play&trackAsin=B00LH2HID2&ts=1767654647&ref=dm_sh_zJbpoAI1HUoX2h2W3OKixoeRz"
-  },
+    "spotify": "",
+    "youtube": "",
+    "amazone": ""
+  }
   "022": {
-    "title": "Beispiel-Song 22",
-    "spotify": "https://open.spotify.com/intl-de/track/5Y8Rj0s6wuM5DlQdllYiWl?si=76962e6a36c0470a",
-    "youtube": "https://youtu.be/CdqoNKCCt7A?si=ka8oOoHT4jpzBm5e",
-    "amazon music": "https://music.amazon.de/albums/B075FNNP2G?do=play&trackAsin=B075FP96ND&ts=1767654762&ref=dm_sh_5NesZ8NMZ5WJTq1hRyIgz1BLh"
-  },
+    "spotify": "",
+    "youtube": "",
+    "amazone": ""
+  }
   "023": {
-    "title": "Beispiel-Song 23",
-    "spotify": "https://open.spotify.com/intl-de/track/2TlXPShOrPn4K51fP0Fykd?si=cf6d9e4706fa4b0d",
-    "youtube": "https://youtu.be/5jjIpvmfxlY?si=P7ih_aDbZP5072Ky",
-    "amazon music": "https://music.amazon.de/albums/B06XSRZ5WC?do=play&trackAsin=B06XSR789J&ts=1767654929&ref=dm_sh_LkuH1p5YRGu5kl7fOZ8C8yHfC"
-  },
+    "spotify": "",
+    "youtube": "",
+    "amazone": ""
+  }
   "024": {
-    "title": "Beispiel-Song 24",
-    "spotify": "https://open.spotify.com/intl-de/track/748pbjnFM9TVwQhDT3LC4N?si=ae1297bdae084aa4",
-    "youtube": "https://youtu.be/XC-HspEa2vs?si=YDG25WCO7rNgO4NS",
-    "amazon music": "https://music.amazon.de/albums/B073JQ9LXC?do=play&trackAsin=B00WNV8FY2&ts=1767655035&ref=dm_sh_MztTqplwDOW6SvHCRdU1Fe4GL"
-  },
+    "spotify": "",
+    "youtube": "",
+    "amazone": ""
+  }
   "025": {
-    "title": "Beispiel-Song 25",
-    "spotify": "https://open.spotify.com/intl-de/track/48UPSzbZjgc449aqz8bxox?si=279501391a97402c",
-    "youtube": "https://youtu.be/GcHHjq8pXec?si=hSDze1AwZSW2U27C",
-    "amazon music": "https://music.amazon.de/albums/B0011Z77OK?do=play&trackAsin=B001QSFNPW&ts=1767655169&ref=dm_sh_WfCG4zUISaYYlGZ9hWB1H1r2l",
-  },
+    "spotify": "",
+    "youtube": "",
+    "amazone": ""
+  }
   "026": {
-    "title": "Beispiel-Song 26",
-    "spotify": "https://open.spotify.com/intl-de/track/2AP7m2dBb8ULTx4Gc1rdMc?si=e561bf1007b04c9d",
-    "youtube": "https://youtu.be/7Y8VPQcPHhY?si=pmpXWhzcThX5LVA_",
-    "amazon music": "https://music.amazon.de/albums/B073J9N57H?do=play&trackAsin=B00CKOQBU2&ts=1767655311&ref=dm_sh_IRNTlXVj85t2qQW1Rbe3Cm1Ee"
-  },
+    "spotify": "",
+    "youtube": "",
+    "amazone": ""
+  }
   "027": {
-    "title": "Beispiel-Song 27",
-    "spotify": "https://open.spotify.com/intl-de/track/1QV6tiMFM6fSOKOGLMHYYg?si=9e256b272d5c4385",
-    "youtube": "https://youtu.be/bESGLojNYSo?si=0j4OYgPrULtFj5nH",
-    "amazon music": "https://music.amazon.de/albums/B073JC8372?do=play&trackAsin=B002WYAB2Y&ts=1767655415&ref=dm_sh_9oLInHA7o06lmi5mPMd1YlOl3"
-  },
+    "spotify": "",
+    "youtube": "",
+    "amazone": ""
+  }
   "028": {
-    "title": "Beispiel-Song 28",
-    "spotify": "https://open.spotify.com/intl-de/track/1M2nd8jNUkkwrc1dgBPTJz?si=c7943578304b49ce",
-    "youtube": "https://youtu.be/RdW0_d4aN8c?si=9IYBDxPVDfoU5y_t",
-    "amazon music": "https://music.amazon.de/albums/B0036G2VSE?do=play&trackAsin=B001QCEPH0&ts=1767655510&ref=dm_sh_riPhw6otLE9OHkC4Im3JVcJeZ"
-  },
+    "spotify": "",
+    "youtube": "",
+    "amazone": ""
+  }
   "029": {
-    "title": "Beispiel-Song 29",
-    "spotify": "https://open.spotify.com/intl-de/track/3FMwO7SOz9VTn9ii3Zkk0j?si=cb4ace5573064f60",
-    "youtube": "https://youtu.be/A52x1DOOJJM?si=Kj-BjdXif_HVFciQ",
-    "amazon music": "https://music.amazon.de/albums/B0DZW8K8L8?do=play&trackAsin=B0DZW5V429&ts=1767655805&ref=dm_sh_DGsMQcYWmFqdLyVJ65dOvJVu4"
-  },
+    "spotify": "",
+    "youtube": "",
+    "amazone": ""
+  }
   "030": {
-    "title": "Beispiel-Song 30",
-    "spotify": "https://open.spotify.com/intl-de/track/0xmjwnQ3FNE6HuWCt2nHdZ?si=cf678db845fe48a0",
-    "youtube": "https://youtu.be/2vlJbwKiH68?si=EGh2XXanAnFHs9xE",
-    "amazon music": "https://music.amazon.de/albums/B09WH3YDF3?do=play&trackAsin=B09WJJ6FYG&ts=1767655908&ref=dm_sh_54uYHSfy1PekP2S94v2pa9LA0"
-  },
+    "spotify": "",
+    "youtube": "",
+    "amazone": ""
+  }
   "031": {
-    "title": "Beispiel-Song 31",
-    "spotify": "https://open.spotify.com/intl-de/track/0z0JSkE5Nw3i3nin3BBSuG?si=b533563417e34237",
-    "youtube": "https://youtu.be/bNowU63PF5E?si=8QO3w4iyxpjZ9-Ks",
-    "amazon music": "https://music.amazon.de/albums/B001TMXVYK?do=play&trackAsin=B001TYC6NK&ts=1767656024&ref=dm_sh_QVCfVHF6dbTVgeS3h2PyAX0xX"
-  },
+    "spotify": "",
+    "youtube": "",
+    "amazone": ""
+  }
   "032": {
-    "title": "Beispiel-Song 32",
-    "spotify": "https://open.spotify.com/intl-de/track/7MJQ9Nfxzh8LPZ9e9u68Fq?si=62e62912b7134908",
-    "youtube": "https://youtu.be/tR1ECf4sEpw?si=IvJEwqjR6P0kUEDo",
-    "amazon music": "https://music.amazon.de/albums/B073JGFL39?do=play&trackAsin=B004ZVE21S&ts=1767656122&ref=dm_sh_z2MKMNROc9XBcTu0IRcbtSKQ0"
-  },
+    "spotify": "",
+    "youtube": "",
+    "amazone": ""
+  }
   "033": {
-    "title": "Beispiel-Song 33",
-    "spotify": "https://open.spotify.com/intl-de/track/49wOjOkS4pBK3PQnPnNYjb?si=37b35803797d461c",
-    "youtube": "https://youtu.be/lRrC_d6dRZw?si=HDpV0wkNaLgSNYaM",
-    "amazon music": "https://music.amazon.de/albums/B073HXSTM3?do=play&trackAsin=B001SVMW60&ts=1767656218&ref=dm_sh_Dnq5C8mcBEwurJPON5wsrZwWW"
-  },
+    "spotify": "",
+    "youtube": "",
+    "amazone": ""
+  }
   "034": {
-    "title": "Beispiel-Song 34",
-    "spotify": "https://open.spotify.com/intl-de/track/4bJygwUKrRgq1stlNXcgMg?si=5619385a742840ba",
-    "youtube": "https://youtu.be/zJBoTO6vZCc?si=P0j4T10XNz69MpvG",
-    "amazon music": "https://music.amazon.de/albums/B073J33ZPW?do=play&trackAsin=B009YSLO86&ts=1767656319&ref=dm_sh_8rknogKCz3mWL6R81SVaIL0LM"
-  },
+    "spotify": "",
+    "youtube": "",
+    "amazone": ""
+  }
   "035": {
-    "title": "Beispiel-Song 35",
-    "spotify": "https://open.spotify.com/intl-de/track/5pmL3RzOy3IvGFaSDi4hZL?si=23f3c6ed925a4506",
-    "youtube": "https://youtu.be/97PT8to46fc?si=uWjcfHZZ7unJnnMV",
-    "amazon music": "https://music.amazon.de/albums/B073JKC421?do=play&trackAsin=B005VYI5CK&ts=1767656449&ref=dm_sh_yi7GkOtGssiMYN6ZehkrC7h6W"
-  },
+    "spotify": "",
+    "youtube": "",
+    "amazone": ""
+  }
   "036": {
-    "title": "Beispiel-Song 36",
-    "spotify": "https://open.spotify.com/intl-de/track/2nLtzopw4rPReszdYBJU6h?si=6b9df504154c4776",
-    "youtube": "https://youtu.be/8P0vKLHbtMg?si=PtseCpn6VsfKBlVg",
-    "amazon music": "https://music.amazon.de/albums/B002EHM58C?do=play&trackAsin=B008CJ6LFE&ts=1767656546&ref=dm_sh_U3dtVR1TTV2p524J7BEuqzqR7"
-  },
+    "spotify": "",
+    "youtube": "",
+    "amazone": ""
+  }
   "037": {
-    "title": "Beispiel-Song 37",
-    "spotify": "https://open.spotify.com/intl-de/track/0u2P5u6lvoDfwTYjAADbn4?si=1c0e4f9ce930436f",
-    "youtube": "https://youtu.be/V1Pl8CzNzCw?si=AarxzUJi9goBE7kr",
-    "amazon music": "https://music.amazon.de/albums/B07C58787Q?do=play&trackAsin=B07C5DYX18&ts=1767656655&ref=dm_sh_LdP6czPnLoFZnWVExTteF3bmx"
-  },
+    "spotify": "",
+    "youtube": "",
+    "amazone": ""
+  }
   "038": {
-    "title": "Beispiel-Song 38",
-    "spotify": "https://open.spotify.com/intl-de/track/1Hv1VTm8zeOeybub15mA2R?si=6537e218f72f4ed3",
-    "youtube": "https://youtu.be/4TYv2PhG89A?si=GcjXHXGUp8h6_kf8",
-    "amazon music": "https://music.amazon.de/albums/B073JRRX4B?do=play&trackAsin=B01EVQDKBO&ts=1767656769&ref=dm_sh_0qgmjBrknItwERiwCtCiV6gzd"
-  },
+    "spotify": "",
+    "youtube": "",
+    "amazone": ""
+  }
   "039": {
-    "title": "Beispiel-Song 39",
-    "spotify": "https://open.spotify.com/intl-de/track/22HYEJveCvykVDHDiEEmjZ?si=d96cf9a572e54319",
-    "youtube": "https://youtu.be/oRQMxBW0cOo?si=EG8aeyrjBCQIXUd9",
-    "amazon music": "https://music.amazon.de/albums/B073HVZR7F?do=play&trackAsin=B002BDG42M&ts=1767656986&ref=dm_sh_jSX67F3iqI5oooKlPli65hmN8"
-  },
+    "spotify": "",
+    "youtube": "",
+    "amazone": ""
+  }
   "040": {
-    "title": "Beispiel-Song 40",
-    "spotify": "https://open.spotify.com/intl-de/track/030RDC2ayPOUM32F9IH7eE?si=96dacc88d5e84aff",
-    "youtube": "https://youtu.be/Yg7vxehIX_8?si=60OJWuBrX_ctS0vC",
-    "amazon music": "https://music.amazon.de/albums/B073J9FHZ4?do=play&trackAsin=B002SHFIHI&ts=1767657094&ref=dm_sh_qcZEOp0EYvzFGpfGqqJN8PQAG"
-  },
+    "spotify": "",
+    "youtube": "",
+    "amazone": ""
+  }
   "041": {
-    "title": "Beispiel-Song 41",
-    "spotify": "https://open.spotify.com/intl-de/track/2IvetNzSZMH5gwjInoyr18?si=82cc4fefb29441c8",
-    "youtube": "https://youtu.be/R3m6-U89Fxs?si=-OAE8FfG_67FpqMK",
-    "amazon music": "https://music.amazon.de/albums/B073JS24GK?do=play&trackAsin=B001SO9GY8&ts=1767657194&ref=dm_sh_t3BcZ99yhKpdixmOpEm8zpftf"
-  },
+    "spotify": "",
+    "youtube": "",
+    "amazone": ""
+  }
   "042": {
-    "title": "Beispiel-Song 42",
-    "spotify": "https://open.spotify.com/intl-de/track/6zGUhFzT3GJ5n1EpXYJpZu?si=b596e3e77a254faa",
-    "youtube": "https://youtu.be/cISduo-q104?si=HvSo9M-Hcv2zaJZi",
-    "amazon music": "https://music.amazon.de/albums/B07BQRHPTP?do=play&trackAsin=B07BQWHXWJ&ts=1767657300&ref=dm_sh_WerTmi1LEagwZUSUNAHiJxGQK"
-  },
+    "spotify": "",
+    "youtube": "",
+    "amazone": ""
+  }
   "043": {
-    "title": "Beispiel-Song 43",
-    "spotify": "https://open.spotify.com/intl-de/track/3FnP3j1TyiTwbJb5AR2ynT?si=41fcd33b25b74481",
-    "youtube": "https://youtu.be/OOM6TiWJdps?si=W7bBV6k1naq1j4oi",
-    "amazon music": "https://music.amazon.de/albums/B0718SYBFP?do=play&trackAsin=B072DR9BG1&ts=1767657470&ref=dm_sh_hp3vaufRxyT8kmO9KMslYqHGf"
-  },
+    "spotify": "",
+    "youtube": "",
+    "amazone": ""
+  }
   "044": {
-    "title": "Beispiel-Song 44",
-    "spotify": "https://open.spotify.com/intl-de/track/1PtQJZVZIdWIYdARpZRDFO?si=a8caac544eb3459d",
-    "youtube": "https://youtu.be/l_b_X6n__pY?si=eskLwwmYSOodGYe7",
-    "amazon music": "https://music.amazon.de/albums/B0BXBQ5T78?do=play&trackAsin=B0BXBNYCTT&ts=1767657638&ref=dm_sh_4L3m6bIqg8MmSuNewnovxBHZL"
-  },
+    "spotify": "",
+    "youtube": "",
+    "amazone": ""
+  }
   "045": {
-    "title": "Beispiel-Song 45",
-    "spotify": "https://open.spotify.com/intl-de/track/4a5pNRjwmzYQuEY1E7O6pj?si=cb6cbfcd3d4b4baf",
-    "youtube": "https://youtu.be/aQdoUUi3iJ8?si=CS0bbj12t7xCxju3",
-    "amazon music": "https://music.amazon.de/albums/B073HYMVQS?do=play&trackAsin=B0042V8EQA&ts=1767657742&ref=dm_sh_M5m3WHEYsbE1UsTze4CopD3cf"
-  },
+    "spotify": "",
+    "youtube": "",
+    "amazone": ""
+  }
   "046": {
-    "title": "Beispiel-Song 46",
-    "spotify": "https://open.spotify.com/intl-de/track/4t9EUCjCPbdfqtOH25k8AU?si=f3eb1a00a49b4a1a",
-    "youtube": "https://youtu.be/n6AGHnLO-VA?si=KoPsN70O0W_6_A3E",
-    "amazon music": "https://music.amazon.de/albums/B073JHHZ28?do=play&trackAsin=B071FGYRFT&ts=1767657839&ref=dm_sh_500ighclvAwuOibdBwq9OmeRT"
-  },
+    "spotify": "",
+    "youtube": "",
+    "amazone": ""
+  }
   "047": {
-    "title": "Beispiel-Song 47",
-    "spotify": "https://open.spotify.com/intl-de/track/2YuKyP77pidQlkxm8PuyJj?si=205fbc297e614e3e",
-    "youtube": "https://youtu.be/bdu1iUgM5c8?si=oIK7CJE0t1rFX0Fu",
-    "amazon music": "https://music.amazon.de/albums/B003JTUW98?do=play&trackAsin=B003JUISFM&ts=1767657929&ref=dm_sh_0Sw6sz8iOrEGOQyErYRl5Rtwd"
-  },
+    "spotify": "",
+    "youtube": "",
+    "amazone": ""
+  }
   "048": {
-    "title": "Beispiel-Song 48",
-    "spotify": "https://open.spotify.com/intl-de/track/1Ir07DtljjzmTx4x9VEUSE?si=2dacd6e084e64421",
-    "youtube": "https://youtu.be/FFJIEK17b9M?si=Yh9H0armvdURxm91",
-    "amazon music": "https://music.amazon.de/albums/B0BX1277KD?do=play&trackAsin=B0BX163GP4&ts=1767658027&ref=dm_sh_3QSxlxgwxeckYHGehf6AOBSEm"
-  },
+    "spotify": "",
+    "youtube": "",
+    "amazone": ""
+  }
   "049": {
-    "title": "Beispiel-Song 49",
-    "spotify": "https://open.spotify.com/intl-de/track/2oXchyEBxQBe8vH6iFgbv0?si=0e552fd5fc954797",
-    "youtube": "https://youtu.be/gb6XtyFNawM?si=aCL-u2DDNHfoygaG",
-    "amazon music": "https://music.amazon.de/albums/B073JL6BVQ?do=play&trackAsin=B075SJM64Z&ts=1767658118&ref=dm_sh_nPVqP9oq4y9pQ2ci8F31P2a20"
-  },
+    "spotify": "",
+    "youtube": "",
+    "amazone": ""
+  }
   "050": {
-    "title": "Beispiel-Song 50",
-    "spotify": "https://open.spotify.com/intl-de/track/66S14BkJDxgkYxLl5DCqOz?si=c6d8106dba604454",
-    "youtube": "https://youtu.be/tbNlMtqrYS0?si=H47MWEICo1Iuy-tZ",
-    "amazon music": "https://music.amazon.de/albums/B000T1DNWW?do=play&trackAsin=B001QICRAQ&ts=1767658634&ref=dm_sh_eICqcC1cFa5z9w8la2wgndTEn"
-  },
+    "spotify": "",
+    "youtube": "",
+    "amazone": ""
+  }
   "051": {
-    "title": "Beispiel-Song 51",
-    "spotify": "https://open.spotify.com/intl-de/track/5vmRQ3zELMLUQPo2FLQ76x?si=40bbec7f4fa34aff",
-    "youtube": "https://youtu.be/88sARuFu-tc?si=dy791GDkZEYdpSWh",
-    "amazon music": "https://music.amazon.de/albums/B07GZ94H2K?do=play&trackAsin=B07GZP7WJN&ts=1767658728&ref=dm_sh_UJ626XJACWseS8k3pWFVM57La"
-  },
+    "spotify": "",
+    "youtube": "",
+    "amazone": ""
+  }
   "052": {
-    "title": "Beispiel-Song 52",
-    "spotify": "https://open.spotify.com/intl-de/track/7KeoeLwqtTIIgeHkvgxkeT?si=d804b9d76fd24c7f",
-    "youtube": "https://youtu.be/ShX_H8kzuzg?si=dhlpur06vm4T8VSn",
-    "amazon music": "https://music.amazon.de/albums/B0BFBCQPGL?do=play&trackAsin=B0BFBCB5JL&ts=1767658882&ref=dm_sh_X0DhY5nvsqlMS8gSPCdRLFZVY"
-  },
+    "spotify": "",
+    "youtube": "",
+    "amazone": ""
+  }
   "053": {
-    "title": "Beispiel-Song 53",
-    "spotify": "https://open.spotify.com/intl-de/track/3Z2tPWiNiIpg8UMMoowHIk?si=89d9753cd97b4dc7",
-    "youtube": "https://youtu.be/9AjkUyX0rVw?si=TvGHktY0-wn3hbrH",
-    "amazon music": "https://music.amazon.de/albums/B001FXSKOE?do=play&trackAsin=B001SMK9C8&ts=1767658985&ref=dm_sh_qs7MioZKiBoDTGevkJQ3eYj44"
-  },
+    "spotify": "",
+    "youtube": "",
+    "amazone": ""
+  }
   "054": {
-    "title": "Beispiel-Song 54",
-    "spotify": "https://open.spotify.com/intl-de/track/0laYHRpNTS6i8FXdupHkJ4?si=a5c223cc28cd4ae1",
-    "youtube": "https://youtu.be/LupeGtJ3a3E?si=5IastYQSwJV5i6sO",
-    "amazon music": "https://music.amazon.de/albums/B073JN2F4W?do=play&trackAsin=B00PB8S2YW&ts=1767740572&ref=dm_sh_y1Mff1U9DF9KDMHFDCOQoD7dS"
-  },
+    "spotify": "",
+    "youtube": "",
+    "amazone": ""
+  }
   "055": {
-    "title": "Beispiel-Song 55",
-    "spotify": "https://open.spotify.com/intl-de/track/4cG7HUWYHBV6R6tHn1gxrl?si=f9a49642cc9144b0",
-    "youtube": "https://youtu.be/ipfWd7QV9O8?si=7oU7VrZJiWS5xvYB",
-    "amazon music": "https://music.amazon.de/albums/B08QND3H3D?do=play&trackAsin=B08QN9DVGV&ts=1767740831&ref=dm_sh_JO5k3jvM6L5FKLERWoA7dSsgK"
-  },
+    "spotify": "",
+    "youtube": "",
+    "amazone": ""
+  }
   "056": {
-    "title": "Beispiel-Song 56",
-    "spotify": "https://open.spotify.com/intl-de/track/4xtHnNFDuwxwqfV3M3QQsu?si=a66be19b9a7d439c",
-    "youtube": "https://youtu.be/MUpa-q_q3Uw?si=K8a5uD1PtPmMfEMr",
-    "amazon music": "https://music.amazon.de/albums/B0DT4TQ5ZJ?do=play&trackAsin=B0DT4TF715&ts=1767740988&ref=dm_sh_mNpTQX5FmnJX6mbatmLDAey1J"
-  },
-  "057": {
-    "title": "Beispiel-Song 57",
-    "spotify": "https://open.spotify.com/intl-de/track/2x4JC9TxW2LACuuxbsncfG?si=40c18844f917488b",
-    "youtube": "https://youtu.be/LCY0SUhS6ec?si=aiAyMdHmncI4n87G",
-    "amazon music": "https://music.amazon.de/albums/B0CZ4M9PTB?do=play&trackAsin=B0CZ4LG7G3&ts=1767741126&ref=dm_sh_v6nDSiyhWm74ZWQxaYBKbyDvn"
-  },
+    "spotify": "",
+    "youtube": "",
+    "amazone": ""
+  }
+   "057": {
+    "spotify": "",
+    "youtube": "",
+    "amazone": ""
+  }
 }
