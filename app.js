@@ -15,6 +15,7 @@ async function main() {
   const errEl = document.getElementById('error');
   const spotifyBtn = document.getElementById('spotifyBtn');
   const youtubeBtn = document.getElementById('youtubeBtn');
+  const amazoneBtn = document.getElementById('amazoneBtn');
 
   if (!id) {
     titleEl.textContent = 'Fehlende ID';
@@ -22,6 +23,7 @@ async function main() {
     errEl.textContent = 'Diese Seite braucht eine ID, z. B. ?id=001';
     setDisabled(spotifyBtn, true);
     setDisabled(youtubeBtn, true);
+    setDisabled(amazoneBtn, true);
     return;
   }
 
@@ -35,6 +37,7 @@ async function main() {
     errEl.textContent = 'Für diese ID ist kein Eintrag hinterlegt.';
     setDisabled(spotifyBtn, true);
     setDisabled(youtubeBtn, true);
+    setDisabled(amazoneBtn, true);
     return;
   }
 
@@ -42,6 +45,7 @@ async function main() {
 
   if (item.spotify) spotifyBtn.href = item.spotify; else setDisabled(spotifyBtn, true);
   if (item.youtube) youtubeBtn.href = item.youtube; else setDisabled(youtubeBtn, true);
+  if (item.amazone) amazoneBtn.href = item.amazone; else setDisabled(amazoneBtn, true);
 }
 
 main();
